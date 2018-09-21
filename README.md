@@ -1,2 +1,2 @@
 # TwoSort
-Twosort method for acadamiic research
+Twosort method for acadamic research
