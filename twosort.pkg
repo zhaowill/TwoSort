@@ -1,5 +1,7 @@
 d 'Group2': a general-purpose programming package for group quickly
+d 'CalculationVW': to calculate weighted variable by specificated weight
 d
 d Distribution-Date: 20181206
 d
 F Group2.ado
+F CalculationVW.ado
