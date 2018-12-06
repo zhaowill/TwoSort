@@ -1,6 +1,8 @@
 v 1.0.0.0
 d 'Group2': a general-purpose programming package for group quickly
 d 'CalculationVW': to calculate weighted variable by specificated weight
+d 'DivideVar': to divide the variable in varlist
 
 p Group2
 p CalculationVW
+p DivideVar
