@@ -1,0 +1,3 @@
+v 1.0.0.0
+d 'Group2': a general-purpose programming package for group quickly
+p Group2
