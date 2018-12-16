@@ -6,3 +6,4 @@ d 'DivideVar': to divide the variable in varlist
 p Group2
 p CalculationVW
 p DivideVar
+p readWind
