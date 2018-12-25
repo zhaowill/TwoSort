@@ -12,4 +12,4 @@ Twosort method for acadamic research
 `readWind`主要是用于处理万德数据库下载下来的*EXCEL*格式，实现快速导入到*Stata*中进行实证分析。
 
 
-> 特别特别欢迎有coding爱好的同学和我一起合作，在coding中寻找乐趣。可以加我微信: **little_Chu_**.
+> 特别特别欢迎有coding爱好的同学和我一起合作，在coding中寻找乐趣。可以加我微信: **little_Chu_**，也可以加我的微信公众号：**ddky_sis**
