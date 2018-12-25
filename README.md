@@ -8,4 +8,4 @@ Twosort method for acadamic research
 
 `CalculationVW`主要用于计算加权收益率。  
 
-`readWind'主要是用于处理万德数据库下载下来的EXCEL格式，实现快速导入到Stata中进行实证分析。
+`readWind主要是用于处理万德数据库下载下来的EXCEL格式，实现快速导入到Stata中进行实证分析。
